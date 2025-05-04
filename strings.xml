@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">K22411caProject2</string>
+    <string name="title_FirstDegree">First Degree</string>
+    <string name="title_co_a">Coinffience A</string>
+    <string name="title_co_b">Coinffience B</string>
+    <string name="title_solution">Solution</string>
+    <string name="title_next">Next</string>
+    <string name="title_exit">Exit</string>
+    <string name="title_result">Result</string>
+    <string name="title_infinity">Infinity</string>
+    <string name="title_nosolution">No solution</string>
+    <string name="error_empty_input">Please enter both coefficients</string>
+    <string name="error_invalid_input">Invalid input. Please enter numbers</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Vietnamese</string>
+</resources>
