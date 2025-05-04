@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phương trình bậc 1</string>
+    <string name="title_FirstDegree">Phương trình bậc 1</string>
+    <string name="title_co_a">Hệ số a</string>
+    <string name="title_co_b">Hệ số b</string>
+    <string name="title_solution">Giải</string>
+    <string name="title_next">Tiếp</string>
+    <string name="title_exit">Thoát</string>
+    <string name="title_result">Kết quả</string>
+    <string name="title_infinity">Vô số nghiệm</string>
+    <string name="title_nosolution">Vô nghiệm</string>
+    <string name="error_empty_input">Vui lòng nhập cả hai hệ số</string>
+    <string name="error_invalid_input">Dữ liệu không hợp lệ. Vui lòng nhập số</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+</resources>
